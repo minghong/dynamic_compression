@@ -1,4 +1,4 @@
 # dynamic_compression
 
-## Citation
-A related paper is submitted to the SCI journal.
+## Cite this article
+Bi, K., Xu, Q., Lai, X. et al. Multi-file dynamic compression method based on classification algorithm in DNA storage. Med Biol Eng Comput (2024). https://doi.org/10.1007/s11517-024-03156-2
